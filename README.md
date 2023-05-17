@@ -2,7 +2,7 @@
 ___
 ## Меня зовут _Атиков Иван Александрович_!
 ___________
-![]https://github.com/IvanAtikov/My-site/blob/main/20220614_111327.jpg)
+![](https://github.com/IvanAtikov/My-site/blob/main/20220614_111327.jpg)
 ____
 Я - Руководитель сварочного производства в г. Новокузнецк.
 
